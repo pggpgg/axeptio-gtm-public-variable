@@ -12,9 +12,14 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-homepage: "https://www.axeptio.eu/en/home"
-documentation: "https://developers.axeptio.eu/v/english/"
+homepage: "https://www.axept.io/"
+documentation: "https://support.axeptio.eu/en/articles/348776-conditioning-a-gtm-tag-to-fire-only-when-a-specific-event-occurs#h_5a5818f5a2"
 versions:
   # Latest version
+  - sha: 0400d62ec7c9f3de7d551333af88b6ddb1a8b42a
+    changeNotes: |2
+      Update gallery homepage and documentation URLs.
+      Set template categories to TAG_MANAGEMENT and UTILITY.
+  # Older versions
   - sha: e2999f6b442f1429305ab90af3ac139de81bb3aa
     changeNotes: Initial Version
