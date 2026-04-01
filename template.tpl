@@ -16,7 +16,7 @@ ___INFO___
   "displayName": "Axeptio Consent State",
   "categories": [
     "TAG_MANAGEMENT",
-    "PERSONALIZATION"
+    "UTILITY"
   ],
   "description": "Contains Axeptio consent",
   "containerContexts": [
